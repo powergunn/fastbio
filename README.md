@@ -29,18 +29,8 @@
 - No Ads
 - API access
 
-    <a href="https://example.com/register" style="
-        display: inline-block; 
-        background-color: #4CAF50; 
-        color: white; 
-        padding: 12px 24px; 
-        border-radius: 4px; 
-        font-size: 16px; 
-        text-align: center; 
-        text-decoration: none; 
-        font-family: Arial, sans-serif; 
-        cursor: pointer; 
-        border: 1px solid transparent;
-    ">
+<a href="https://fastbio.link/register" style="text-decoration: none;">
+    <button style="background-color: #4CAF50; color: white; padding: 12px 24px; border: none; border-radius: 4px; font-size: 16px; cursor: pointer;">
         Register Now
-    </a>
+    </button>
+</a>
